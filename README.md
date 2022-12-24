@@ -98,7 +98,7 @@ And one or more smaller dimensional tables that store attributes about the data 
 
         - Extract columns for artist ID, name, location, latitude, and longitude
         -  Insert Record into `Artist` Table
-2. **Process `log_data`:** perform ETL on the second dataset, `log_data`, to create the `time` and `users` dimensional tables, as well as the `songplays` fact table.
+2. **Process `Log Data`:** perform ETL on the second dataset, `log_data`, to create the `time` and `users` dimensional tables, as well as the `songplays` fact table.
 
     1. Use the `get_files` function provided above to get a list of all log JSON files in `data/log_data`
     2. `time` Table

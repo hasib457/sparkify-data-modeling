@@ -59,6 +59,8 @@ In this project we will use the star schema data model. The star schema is a mul
 
 It uses a single large fact table to store transactional or measured data in this case is `songplays`:
 
+![](sparkifydb_erd.png)
+
 1. `songplays` - records in log data associated with song plays i.e. records with page NextSong
 
         - songplay_id PRIMARY KEY

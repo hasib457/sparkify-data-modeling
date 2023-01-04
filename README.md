@@ -1,4 +1,4 @@
-# Data Modeling wi Postgres - Sparkify Data Analysis ETL
+# Data Modeling with Postgres - Sparkify Data Analysis ETL
 A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The purpose of this project is to create an ETL pipeline that can use song and user logs data to create a Postgres database optimized for queries based on song plays.
 # Sparkify Data
 Sparkify data consist of 2 primary data sources 
